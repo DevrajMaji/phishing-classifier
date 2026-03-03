@@ -174,10 +174,3 @@ This project is open source and available under the MIT License.
 
 Devraj
 
-## 📧 Contact
-
-For questions or suggestions, feel free to open an issue or contact me.
-
----
-
-**Note:** This project is for educational purposes. Always validate results with domain experts before deployment.
